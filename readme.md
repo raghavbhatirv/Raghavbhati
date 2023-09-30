@@ -1,1 +1,1 @@
-Namaste Duniya👋
+Namaste World👋
