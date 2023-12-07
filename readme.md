@@ -2,9 +2,8 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=3000&pause=1000&color=F7F7F7&random=false&width=435&lines=Hey!+My+Self+Raghav+Bhati%F0%9F%91%8B;Full+Stack+Web+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;MERN+Stack+Developer%E2%9A%A1;Data+Structures+And+Algorithms%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hey!+My+Self+Raghav+Bhati%F0%9F%91%8B;Full+Stack+Web+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;MERN+Stack+Developer%E2%9A%A1;Data+Structures+And+Algorithms%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
-###
 
 
 ### 🚀Tech Journey Highlights:
