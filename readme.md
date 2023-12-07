@@ -1,11 +1,8 @@
 # Hello World👋
 
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=3000&pause=1000&color=F7F7F7&random=false&width=435&lines=Hey!+My+Self+Raghav+Bhati%F0%9F%91%8B;Full+Stack+Web+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;MERN+Stack+Developer%E2%9A%A1;Data+Structures+And+Algorithms%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
-</div>
 <hr>
 
 ### 🚀Tech Journey Highlights:
@@ -31,8 +28,6 @@ Hello there! 👋 My tech journey kicked off with a passion for content creation
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -64,8 +59,7 @@ Hello there! 👋 My tech journey kicked off with a passion for content creation
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavbhati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=raghavbhati&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=raghavbhati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=raghavbhati&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
