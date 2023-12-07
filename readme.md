@@ -1,22 +1,22 @@
 # Hello World👋
 
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=3000&pause=1000&color=F7F7F7&random=false&width=435&lines=Hey!+My+Self+Raghav+Bhati%F0%9F%91%8B;Full+Stack+Web+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;MERN+Stack+Developer%E2%9A%A1;Data+Structures+And+Algorithms%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
-<hr>
+###
+
 
 ### 🚀Tech Journey Highlights:
 
 Hello there! 👋 My tech journey kicked off with a passion for content creation on YouTube and then this passion soon extended to blogging. The world of possibilities in web development soon captivated me, especially during my time working on WordPress. Keen to explore the intricate world of coding further, I enrolled in the Masai School bootcamp. This decision marked a significant milestone in my ongoing tech voyage.👨‍💻
-
-### 🎓 Masai School Impact:
-
+###
 
 <h2 align="center">Tech Stack</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
@@ -59,7 +59,8 @@ Hello there! 👋 My tech journey kicked off with a passion for content creation
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavbhati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=raghavbhati&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=raghavbhati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=raghavbhati&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+###
