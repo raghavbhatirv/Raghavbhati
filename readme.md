@@ -1,4 +1,4 @@
-<h1 align="center">Hello World👋</h1>
+<h1>Hello World👋</h1>
 
 
 
@@ -7,9 +7,9 @@
 </p>
 
 
-<h2 align="center">🚀Tech Journey Highlights:</h2>
+<h3 >🚀Tech Journey Highlights:</h3>
 
-<p align="center">My tech journey kicked off with a passion for content creation on YouTube and then this passion soon extended to blogging. The world of possibilities in web development soon captivated me, especially during my time working on WordPress. Keen to explore the intricate world of coding further, I enrolled in the Masai School bootcamp. This decision marked a significant milestone in my ongoing tech voyage.👨‍💻</p>
+<p>My tech journey kicked off with a passion for content creation on YouTube and then this passion soon extended to blogging. The world of possibilities in web development soon captivated me, especially during my time working on WordPress. Keen to explore the intricate world of coding further, I enrolled in the Masai School bootcamp. This decision marked a significant milestone in my ongoing tech voyage.👨‍💻</p>
 
 
 
