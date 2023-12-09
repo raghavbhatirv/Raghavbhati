@@ -1,7 +1,6 @@
 <h1>Hello World👋</h1>
 
 
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hey!+My+Self+Raghav+Bhati%F0%9F%91%8B;Full+Stack+Web+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;MERN+Stack+Developer%E2%9A%A1;Data+Structures+And+Algorithms%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
@@ -13,10 +12,10 @@
 
 
 <h2>📫 Let's connect</h2>
-<p>Portfolio: https://raghavbhati.github.io/</p>
-<p>Linkedin: https://www.linkedin.com/in/raghavbhatirv/</p>
-<p>Twitter: https://twitter.com/raghavbhatirv</p>
-<p>Email: workmail.raghav@gmail.com</p>
+- Portfolio: https://raghavbhati.github.io/
+- Linkedin: https://www.linkedin.com/in/raghavbhatirv/
+- Twitter: https://twitter.com/raghavbhatirv/
+- Email: workmail.raghav@gmail.com
 
 
 <h2 align="center">Tech Stack</h2>
@@ -63,11 +62,7 @@
 
 ###
 <br clear="both">
-
-
 <h2>📈GitHub Stats:</h2>
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raghavbhati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=raghavbhati&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
