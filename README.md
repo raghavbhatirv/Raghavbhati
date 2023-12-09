@@ -10,7 +10,7 @@
 <p>My tech journey kicked off with a passion for content creation on YouTube and then this passion soon extended to blogging. The world of possibilities in web development soon captivated me, especially during my time working on WordPress. Keen to explore the intricate world of coding further, I enrolled in the Masai School bootcamp. This decision marked a significant milestone in my ongoing tech voyage.👨‍💻</p>
 
 
-<h2>📫 Let's connect</h2>
+<h3>📫 Let's connect</h3>
 <ul>
    <li>Portfolio: https://raghavbhati.github.io/</li>
    <li>Linkedin: https://www.linkedin.com/in/raghavbhatirv/</li>
@@ -19,7 +19,7 @@
 </ul>
 
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 ###
 
@@ -60,12 +60,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div>
-###
-<br clear="both">
 
 <h3>📈GitHub Stats:</h3>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raghavbhati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=raghavbhati&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-###
