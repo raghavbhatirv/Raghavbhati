@@ -9,7 +9,7 @@
 <div>
 <h2>📫 Let's connect</h2>
 <ul>
-   <li>Portfolio: https://raghavbhati.github.io/</li>
+   <li>Portfolio: https://raghavbhatirv.in/</li>
    <li>Linkedin: https://www.linkedin.com/in/raghavbhatirv/</li>
    <li>Twitter: https://twitter.com/raghavbhatirv/</li>
    <li>Email: workmail.raghav@gmail.com</li>
